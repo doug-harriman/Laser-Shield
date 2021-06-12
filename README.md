@@ -3,6 +3,17 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
 
+# Open Tasks
+- [ ] Mill out front shield
+- [ ] Design front shield artwork
+- [ ] Capture & document front shield artwork
+- [ ] Laser etch front shield
+- [ ] Photos
+- [ ] Capture Fusion360 deign to repo
+- [ ] Decide on if want STL of full design in repo for viewing.
+- [ ] Post link to Sainsmart Facebook
+- [ ] Post files to Thingiverse
+- [ ] Let J-Tech know about it
 
 # BOM
 |Part|Count|Material|
@@ -54,3 +65,6 @@ Inserts were pressed into the Mount with a soldering iron.  Pressed until they e
 
 ## M3 Screws 
 M3x6 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
+
+# Future Improvements
+* Redesign rear shield to mount fan for air assist for cutting.
