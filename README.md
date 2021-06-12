@@ -25,10 +25,10 @@ The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/so
 * [G-Code](mfg/Shield-Mount.gcode) for 3D printer
 
 ## Front, Rear & Sides
-## Material
+### Material
 The laser shielding mhttps://www.amazon.com/gp/product/B07KFVCHTT/aterial is an transparent orange plastic which I believe to be acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
 
-## Machining
+### Machining
 * Tool
   * 1.0 mm diameter, 2 flute flat end mill.
   * Purchased on [Amazon](https://www.amazon.com/gp/product/B07KFVCHTT/).
