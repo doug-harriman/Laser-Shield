@@ -25,7 +25,7 @@ The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/so
 * [G-Code](mfg/Shield-Mount.gcode) for 3D printer
 
 ## Front, Rear & Sides
-The front, rear and side shields were machined out of a 300mm x 300mm sheet of laser shielding material.
+The front, rear and side shields were machined out of a 300mm x 300mm sheet of laser shielding material on the Sainsmart Genmitsu 3018 Pro.
 
 ### Material
 The laser shielding material is an transparent orange plastic which I believe to be cast acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
