@@ -8,9 +8,9 @@ Design documentation for a laser shield for a 3018 laser.
 |Part|Count|Material|Design File|
 |:---| :-: |--------|-----------|
 |Mount| 1 | PLA  ||
-|Front| 2 |Laser Shielding||
+|Front| 1 |Laser Shielding||
 |Side| 2 |Laser Shielding||
-|Rear| 2 |Laser Shielding||
+|Rear| 1 |Laser Shielding||
 |M3 Threaded Insert| 2 | Brass | Purchased, see below|
 
 # Part Documentation
