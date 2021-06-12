@@ -26,7 +26,7 @@ The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/so
 
 ## Front, Rear & Sides
 ### Material
-The laser shielding mhttps://www.amazon.com/gp/product/B07KFVCHTT/aterial is an transparent orange plastic which I believe to be acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
+The laser shielding material is an transparent orange plastic which I believe to be acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
 
 ### Machining
 * Tool
