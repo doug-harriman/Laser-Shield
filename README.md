@@ -11,10 +11,18 @@ Design documentation for a laser shield for a 3018 laser.
 |Front| 1 |Laser Shielding||
 |Side| 2 |Laser Shielding||
 |Rear| 1 |Laser Shielding||
-|M3 Threaded Insert| 2 | Brass | Purchased, see below|
+|M3 Threaded Insert| 2 | Brass | Purchased |
+|M3x8 Socket Head Screw| 2 | Stainless | Purchased |
 
 # Part Documentation
 
+## Mount 
+The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
+
+The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
+* [STL](mfg/Shield-Mount.stl)
+* [G-Code](mfg/Shield-Mount.gcode) for 3D printer
+* 
 ## Front, Rear & Sides
 The laser shielding material is an transparent orange plastic which I believe to be acrylic.  
 The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.
@@ -26,9 +34,7 @@ M3 brass threaded inserts.  Purchased from [Amazon](https://www.amazon.com/gp/pr
 
 Inserts were pressed into the Mount with a soldering iron.  Pressed until they extended ~0.25 mm beyond the face of the Mount, then the Mount was pressed onto a flat surface to get the insert face flush and level with the Mount face.
 
-## Mount 
-The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
+## M3 Screws 
+M3 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
 
-The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
-* [STL](mfg/Shield-Mount.stl)
-* [G-Code](mfg/Shield-Mount.gcode) for 3D printer
+
