@@ -22,7 +22,7 @@ The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dof
 The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
 * [STL](mfg/Shield-Mount.stl)
 * [G-Code](mfg/Shield-Mount.gcode) for 3D printer
-* 
+
 ## Front, Rear & Sides
 The laser shielding material is an transparent orange plastic which I believe to be acrylic.  
 The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.
