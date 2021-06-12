@@ -18,15 +18,17 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 All parts were designed in Fusion360.  
 
 ## Mount 
-The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
+The shield mount was 3D printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
 
 The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
 * [STL](mfg/Shield-Mount.stl)
 * [G-Code](mfg/Shield-Mount.gcode) for 3D printer
 
 ## Front, Rear & Sides
+The front, rear and side shields were machined out of a 300mm x 300mm sheet of laser shielding material.
+
 ### Material
-The laser shielding material is an transparent orange plastic which I believe to be acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
+The laser shielding material is an transparent orange plastic which I believe to be cast acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
 
 ### Machining
 * Tool
