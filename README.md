@@ -12,7 +12,7 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 |Side| 2 |Laser Shielding|
 |Rear| 1 |Laser Shielding|
 |M3 Threaded Insert| 2 | Brass | 
-|M3x8 Socket Head Screw| 2 | Stainless |
+|M3x6 Screw| 2 | Stainless |
 
 # Part Documentation
 All parts were designed in Fusion360.  
@@ -53,4 +53,4 @@ M3 brass threaded inserts.  Purchased from [Amazon](https://www.amazon.com/gp/pr
 Inserts were pressed into the Mount with a soldering iron.  Pressed until they extended ~0.25 mm beyond the face of the Mount, then the Mount was pressed onto a flat surface to get the insert face flush and level with the Mount face.
 
 ## M3 Screws 
-M3 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
+M3x6 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
