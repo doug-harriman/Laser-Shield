@@ -5,16 +5,17 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 
 
 # BOM
-|Part|Count|Material|Design File|
-|:---| :-: |--------|-----------|
-|Mount| 1 | PLA  ||
-|Front| 1 |Laser Shielding||
-|Side| 2 |Laser Shielding||
-|Rear| 1 |Laser Shielding||
-|M3 Threaded Insert| 2 | Brass | Purchased |
-|M3x8 Socket Head Screw| 2 | Stainless | Purchased |
+|Part|Count|Material|
+|:---| :-: |--------|
+|Mount| 1 | PLA  |
+|Front| 1 |Laser Shielding|
+|Side| 2 |Laser Shielding|
+|Rear| 1 |Laser Shielding|
+|M3 Threaded Insert| 2 | Brass | 
+|M3x8 Socket Head Screw| 2 | Stainless |
 
 # Part Documentation
+All parts were designed in Fusion360.  
 
 ## Mount 
 The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
@@ -24,10 +25,25 @@ The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/so
 * [G-Code](mfg/Shield-Mount.gcode) for 3D printer
 
 ## Front, Rear & Sides
-The laser shielding material is an transparent orange plastic which I believe to be acrylic.  
-The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.
+## Material
+The laser shielding mhttps://www.amazon.com/gp/product/B07KFVCHTT/aterial is an transparent orange plastic which I believe to be acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
 
-It was ordered from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
+## Machining
+* Tool
+  * 1.0 mm diameter, 2 flute flat end mill.
+  * Purchased on [Amazon](https://www.amazon.com/gp/product/B07KFVCHTT/).
+* Feeds & Speeds
+  * Spindle speed was at max using the stock 775 3018 Pro spindle motor.  This is approximately 5000 RPM.
+  * Feed rates
+    * Cutting: 600 mm/min
+    * Positioning: 1500 mm/min
+    * Depth of cut: 0.25 mm 
+* Tool Path
+  * Tool path used was a simple 2D contour, conventional (right) milling.  Details available in the Fusion360 design files.
+  * G-Code 
+    * [Front]() 
+    * [Sides](mfg/shield-sides.nc) (machined together)
+    * [Rear](mfg/shield-rear.nc)
 
 ## Threaded Inserts
 M3 brass threaded inserts.  Purchased from [Amazon](https://www.amazon.com/gp/product/B07H2RWRW4/).
@@ -36,5 +52,3 @@ Inserts were pressed into the Mount with a soldering iron.  Pressed until they e
 
 ## M3 Screws 
 M3 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
-
-
