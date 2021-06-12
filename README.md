@@ -1,5 +1,5 @@
 # Laser-Shield
-Design documentation for a laser shield for a 3018 laser. 
+Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser Module](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-blue-laser-module-kit) mounted to a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-genmitsu-cnc-router-pro-diy-kit).
 
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
 
@@ -8,12 +8,20 @@ Design documentation for a laser shield for a 3018 laser.
 |Part|Count|Material|Design File|
 |:---| :-: |--------|-----------|
 |Mount| 1 | PLA  ||
-|Front| 2 |Laser Shielding||
+|Front| 1 |Laser Shielding||
 |Side| 2 |Laser Shielding||
-|Rear| 2 |Laser Shielding||
-|M3 Threaded Insert| 2 | Brass | Purchased, see below|
+|Rear| 1 |Laser Shielding||
+|M3 Threaded Insert| 2 | Brass | Purchased |
+|M3x8 Socket Head Screw| 2 | Stainless | Purchased |
 
 # Part Documentation
+
+## Mount 
+The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
+
+The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
+* [STL](mfg/Shield-Mount.stl)
+* [G-Code](mfg/Shield-Mount.gcode) for 3D printer
 
 ## Front, Rear & Sides
 The laser shielding material is an transparent orange plastic which I believe to be acrylic.  
@@ -24,9 +32,9 @@ It was ordered from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm
 ## Threaded Inserts
 M3 brass threaded inserts.  Purchased from [Amazon](https://www.amazon.com/gp/product/B07H2RWRW4/).
 
-## Mount 
-The shield mount was printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
+Inserts were pressed into the Mount with a soldering iron.  Pressed until they extended ~0.25 mm beyond the face of the Mount, then the Mount was pressed onto a flat surface to get the insert face flush and level with the Mount face.
 
-The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
-* [STL](mfg/Shield-Mount.stl)
-* [G-Code](mfg/Shield-Mount.gcode) for 3D printer
+## M3 Screws 
+M3 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
+
+
