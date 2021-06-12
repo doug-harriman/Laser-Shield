@@ -1,6 +1,9 @@
 # Laser-Shield
 Design documentation for a laser shield for a 3018 laser. 
 
+![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield.png)
+
+
 # BOM
 |Part|Count|Material|Design File|
 |:---| :-: |--------|-----------|
