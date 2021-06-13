@@ -1,11 +1,11 @@
 # Laser-Shield
-Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser Module](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-blue-laser-module-kit) mounted to a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-genmitsu-cnc-router-pro-diy-kit).
+Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser Module](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-blue-laser-module-kit) mounted to a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-genmitsu-cnc-router-pro-diy-kit).  See my [3018 Mill](https://github.com/doug-harriman/3018-Mill/) repository for general information about using the mill and laser.
 
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
 
 # Open Tasks
-- [ ] Mill out front shield
-- [ ] Design front shield artwork
+- [x] Mill out front shield
+- [x] Design front shield artwork
 - [ ] Capture & document front shield artwork
 - [ ] Laser etch front shield
 - [ ] Photos
@@ -65,6 +65,9 @@ Inserts were pressed into the Mount with a soldering iron.  Pressed until they e
 
 ## M3 Screws 
 M3x6 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
+
+# Artwork
+All artwork is SVG 
 
 # Future Improvements
 * Redesign rear shield to mount fan for air assist for cutting.
