@@ -48,7 +48,7 @@ The laser shielding material is an transparent orange plastic which I believe to
 * Tool Path
   * Tool path used was a simple 2D contour, conventional (right) milling.  Details available in the Fusion360 design files.
   * G-Code 
-    * [Front]() 
+    * [Front](/mfg/shield-front.nc) 
     * [Sides](mfg/shield-sides.nc) (machined together)
     * [Rear](mfg/shield-rear.nc)
 
@@ -65,7 +65,7 @@ All artwork was created in Inkscape and converted from SVG to G-Code with the La
 
 Portions of the artwork were obtained from the Open Source community.  See the [Artwork Source](artwork/artwork-source.md) documentation for more details.
 
-Laser etch parameters
+Laser etch parameters (see 3018 Mill project for speed & power test data)
 * Etching speed: 800 mm/min (infill & perimeter)
 * Infill laser power: 40% (400 on Sainsmart system)
 * Perimeter laser power: 60% (600 on Sainsmart system)
