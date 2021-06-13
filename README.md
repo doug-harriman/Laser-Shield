@@ -78,6 +78,7 @@ Laser etch parameters (see 3018 Mill project for speed & power test data)
 
 # Future Improvements
 * Redesign rear shield to mount fan for air assist for cutting.
+  * Have a small fan on hand from [Amazon](https://www.amazon.com/gp/product/B0755BY9RH/). 
 * Reduce length of shield mount.  Interferes with top of Z-axis mount when in extreme +Z position.
 
 # Links
