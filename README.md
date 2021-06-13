@@ -5,7 +5,8 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 ![Laser Shield Photo](https://github.com/doug-harriman/Laser-Shield/blob/main/images/photo-iso-small.jpg)
 
 # Open Tasks
-- [ ] Photos
+- [ ] Generate STL for front, side, rear parts & capture.
+- [ ] Edge Timbers notebook to prove it works in place.
 - [ ] Post link to Sainsmart Facebook
 - [ ] Post files to Thingiverse
 - [ ] Let J-Tech know about it
