@@ -25,6 +25,8 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 # Part Documentation
 All parts were designed in Fusion360, see the [cad](cad/) directory for CAD files.
 
+Assembly [STL](cad/laser-shield-v25.stl)
+
 ## Mount 
 The shield mount was 3D printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
 
@@ -34,6 +36,11 @@ The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/so
 
 ## Front, Rear & Sides
 The front, rear and side shields were machined out of a 300mm x 300mm sheet of laser shielding material on the Sainsmart Genmitsu 3018 Pro.
+
+STL for:
+* [Front](cad/Shield-Front.stl)
+* [Sides](cad/Shield-Side.stl)
+* [Rear](cad/Shield-Rear.stl)
 
 ### Material
 The laser shielding material is an transparent orange plastic which I believe to be cast acrylic. The laser wavelength is 445nm (blue).  Orange filters blue light eliminating most of the optical power.  Material was purchased from [J-Tech Photonics](https://jtechphotonics.com/?product=445nm-laser-shielding).
