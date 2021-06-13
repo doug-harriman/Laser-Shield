@@ -5,9 +5,8 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 ![Laser Shield Photo](https://github.com/doug-harriman/Laser-Shield/blob/main/images/photo-iso-small.jpg)
 
 # Open Tasks
-- [ ] Generate STL for front, side, rear parts & capture.
 - [ ] Capture photos of shield in place on 3018
-- [ ] Edge Timbers notebook to prove it works in place.
+- [ ] Etch Timbers notebook to prove it works in place.
 - [ ] Post link to Sainsmart Facebook
 - [ ] Post files to Thingiverse
 - [ ] Let J-Tech know about it
@@ -31,7 +30,7 @@ Assembly [STL](cad/laser-shield-v25.stl)
 The shield mount was 3D printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
 
 The STL was created in Fusion360 and sliced with [Cura](https://ultimaker.com/software/ultimaker-cura) 4.8.0 with the default settings for the Ender3 Pro and PLA, and a slice height of 0.12 mm.  Design files:
-* [STL](mfg/Shield-Mount.stl)
+* [STL](cad/Shield-Mount.stl)
 * [G-Code](mfg/Shield-Mount.gcode) for 3D printer
 
 ## Front, Rear & Sides
