@@ -2,6 +2,7 @@
 Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser Module](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-blue-laser-module-kit) mounted to a [Sainsmart Genmitsu 3018 Pro CNC Mill](https://www.sainsmart.com/collections/cnc-machines/products/sainsmart-genmitsu-cnc-router-pro-diy-kit).  See my [3018 Mill](https://github.com/doug-harriman/3018-Mill/) repository for general information about using the mill and laser.
 
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
+![Laser Shield Photo](https://github.com/doug-harriman/Laser-Shield/blob/main/images/photo-iso-small.jpg)
 
 # Open Tasks
 - [ ] Photos
