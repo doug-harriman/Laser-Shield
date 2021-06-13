@@ -4,13 +4,7 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
 
 # Open Tasks
-- [x] Mill out front shield
-- [x] Design front shield artwork
-- [ ] Capture & document front shield artwork
-- [ ] Laser etch front shield
 - [ ] Photos
-- [ ] Capture Fusion360 deign to repo
-- [ ] Decide on if want STL of full design in repo for viewing.
 - [ ] Post link to Sainsmart Facebook
 - [ ] Post files to Thingiverse
 - [ ] Let J-Tech know about it
