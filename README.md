@@ -67,7 +67,9 @@ Inserts were pressed into the Mount with a soldering iron.  Pressed until they e
 M3x6 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
 
 # Artwork
-All artwork is SVG 
+All artwork was created in Inkscape and converted from SVG to G-Code with the Lasertools Inkscape Extension.  See my [3018 Mill](https://github.com/doug-harriman/3018-Mill/) project for more information on the tools and processes.
+
+Portions of the artwork were obtained from the Open Source community.  See the [Artwork Source](artwork/artwork-source.md) documentation for more details.
 
 # Future Improvements
 * Redesign rear shield to mount fan for air assist for cutting.
