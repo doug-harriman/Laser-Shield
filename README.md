@@ -4,13 +4,7 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
 
 # Open Tasks
-- [x] Mill out front shield
-- [x] Design front shield artwork
-- [ ] Capture & document front shield artwork
-- [ ] Laser etch front shield
 - [ ] Photos
-- [ ] Capture Fusion360 deign to repo
-- [ ] Decide on if want STL of full design in repo for viewing.
 - [ ] Post link to Sainsmart Facebook
 - [ ] Post files to Thingiverse
 - [ ] Let J-Tech know about it
@@ -26,7 +20,7 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 |M3x6 Screw| 2 | Stainless |
 
 # Part Documentation
-All parts were designed in Fusion360.  
+All parts were designed in Fusion360, see the [cad](cad/) directory for CAD files.
 
 ## Mount 
 The shield mount was 3D printed on a [Creality Ender3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) with [Hatchbox white PLA](https://www.amazon.com/gp/product/B00J0GMMP6/).
@@ -54,7 +48,7 @@ The laser shielding material is an transparent orange plastic which I believe to
 * Tool Path
   * Tool path used was a simple 2D contour, conventional (right) milling.  Details available in the Fusion360 design files.
   * G-Code 
-    * [Front]() 
+    * [Front](/mfg/shield-front.nc) 
     * [Sides](mfg/shield-sides.nc) (machined together)
     * [Rear](mfg/shield-rear.nc)
 
@@ -70,6 +64,13 @@ M3x6 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/p
 All artwork was created in Inkscape and converted from SVG to G-Code with the Lasertools Inkscape Extension.  See my [3018 Mill](https://github.com/doug-harriman/3018-Mill/) project for more information on the tools and processes.
 
 Portions of the artwork were obtained from the Open Source community.  See the [Artwork Source](artwork/artwork-source.md) documentation for more details.
+
+Laser etch parameters (see 3018 Mill project for speed & power test data)
+* Etching speed: 800 mm/min (infill & perimeter)
+* Infill laser power: 40% (400 on Sainsmart system)
+* Perimeter laser power: 60% (600 on Sainsmart system)
+* Beam width: 0.2 mm
+* Contour tolerance: 0.1 mm
 
 # Future Improvements
 * Redesign rear shield to mount fan for air assist for cutting.
