@@ -4,6 +4,8 @@ Design documentation for a laser shield for the [Sainsmart Genmitsu 5.5W Laser M
 ![Laser Shield Rendering](https://github.com/doug-harriman/Laser-Shield/blob/main/images/Laser-Shield-small.png)
 ![Laser Shield Photo](https://github.com/doug-harriman/Laser-Shield/blob/main/images/photo-iso-small.jpg)
 
+![Laser Shield In Use](https://github.com/doug-harriman/Laser-Shield/blob/main/images/in-use-small.jpg)
+
 # BOM
 |Part|Count|Material|
 |:---| :-: |--------|
