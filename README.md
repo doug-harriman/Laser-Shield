@@ -41,7 +41,7 @@ The laser shielding material is an transparent orange plastic which I believe to
 
 ### Machining
 * Tool
-  * 1.0 mm diameter, 2 flute flat end mill.
+  * [1.0 mm diameter, 2 flute flat end mill](https://github.com/doug-harriman/3018-Mill/blob/main/milling/tools-n-bits/tools-n-bits.md#10mm-dia-2-flute-upcut-carbide).
   * Purchased on [Amazon](https://www.amazon.com/gp/product/B07KFVCHTT/).
 * Feeds & Speeds
   * Spindle speed was at max using the stock 775 3018 Pro spindle motor.  This is approximately 5000 RPM.
