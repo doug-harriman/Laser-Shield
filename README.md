@@ -59,6 +59,8 @@ M3 brass threaded inserts.  Purchased from [Amazon](https://www.amazon.com/gp/pr
 
 Inserts were pressed into the Mount with a soldering iron.  Pressed until they extended ~0.25 mm beyond the face of the Mount, then the Mount was pressed onto a flat surface to get the insert face flush and level with the Mount face.
 
+For more detail on dimensioning and techniques for threaded inserts see the Hackaday how-to on [Threading 3D Printed Parts](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/).
+
 ## M3 Screws 
 M3x6 hex socket head screws. Purchased from [Amazon](https://www.amazon.com/gp/product/B014OO5KQG).
 
